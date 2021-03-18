@@ -8,3 +8,4 @@
 4. Install PyTorch via pip
 5. Install IKPy through pip running th following command: <code>pip install ikpy</code>
 ## Illustration
+![image](https://github.com/KelvinYang0320/deepbots-inverseRL/blob/master/doc/flowchart.jpg)
